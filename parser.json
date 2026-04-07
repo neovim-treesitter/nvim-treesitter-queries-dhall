@@ -1,9 +1,9 @@
 {
-  "parser_version": "62013259b26ac210d5de1abf64cf1b047ef88000",
   "location": null,
-  "lang": "dhall",
+  "parser_version": "62013259b26ac210d5de1abf64cf1b047ef88000",
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/jbellerb/tree-sitter-dhall",
-  "semver": false
+  "semver": false,
+  "lang": "dhall"
 }
